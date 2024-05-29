@@ -1,0 +1,48 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/obesity-elixhauser-primary-care-monitoring---primary.py
+inputModule3:
+  class: File
+  path: python/obesity-elixhauser-primary-care---primary.py
+inputModule4:
+  class: File
+  path: python/obesity-elixhauser-primary-care-treatment---primary.py
+inputModule5:
+  class: File
+  path: python/obesity---primary.py
+inputModule6:
+  class: File
+  path: python/obesity-elixhauser-primary-care-index---primary.py
+inputModule7:
+  class: File
+  path: python/obesity-elixhauser-primary-care-indicator---primary.py
+inputModule8:
+  class: File
+  path: python/dietary-obesity-elixhauser-primary-care---primary.py
+inputModule9:
+  class: File
+  path: python/obesity-elixhauser-primary-care-health---primary.py
+inputModule10:
+  class: File
+  path: python/overweight-obesity-elixhauser-primary-care---primary.py
+inputModule11:
+  class: File
+  path: python/other-obesity-elixhauser-primary-care---primary.py
+inputModule12:
+  class: File
+  path: python/obesity-elixhauser-primary-care-letter---primary.py
+inputModule13:
+  class: File
+  path: python/obesity-elixhauser-primary-care-hyperalimentation---primary.py
+inputModule14:
+  class: File
+  path: python/obesity-elixhauser-primary-care-hypoventilation---primary.py
+inputModule15:
+  class: File
+  path: python/obesity-elixhauser-primary-care-assessment---primary.py
+inputModule16:
+  class: File
+  path: python/output-cases.py
